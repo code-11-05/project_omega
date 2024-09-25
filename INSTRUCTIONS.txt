@@ -1,0 +1,7 @@
+INSTRUCTIONS TO PLAY:
+1. The game is a quiz where you will be asked to answer the questions with the help of the given clues.
+2. There are three different quizzes available and the player can choose any of these three.
+3. The player will be asked to enter their name and will be given a particular id.
+4. The player needs to enter the correct answer for the given question and points will be awarded based on the number of tries taken by the player to answer correctly.
+5. If the player scores 5 points in any of these 3 quizzes, the player will get a bonus opportunity to modify the questions of the quiz in which they won.
+6. The bonus chance will be given to the player only once, so the player is requested to play wisely.

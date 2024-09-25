@@ -1,0 +1,8 @@
+SPECIAL INSTRUCTIONS:
+1. This is a hangman quiz where the player will be asked to enter their name.
+2. The player will be registered with a particular player id.
+3. The player needs to answer correctly for the given question, otherwise points won't be awarded.
+4. Points are awarded to based on the number of tries taken by the player to answer the question correctly.
+5. If the player repeats their guess, then their chance to find the answer will be deducted.
+6. If the player scores 5 points in this hangman quiz, the player will get a bonus reward to modify the questions of the hangman quiz.
+7. The bonus chance will be given to the player only once, so the player is requested to play wisely.
